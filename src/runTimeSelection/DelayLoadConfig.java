@@ -4,8 +4,6 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import javax.swing.JLabel;
-
 public class DelayLoadConfig implements Runnable {
 
 	private boolean isRunning = true;
